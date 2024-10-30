@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...frontend
 - 💞️ I’m looking to collaborate on ...web development
 - 📫 How to reach me ...kirstenedewor5@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ... she
+- ⚡ Fun fact: ... reading
 
 <!---
 KTech-webgit/KTech-webgit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
